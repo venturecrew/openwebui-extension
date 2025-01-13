@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Open WebUI Extension",
-  "description": "Open WebUI",
+  "name": "Neuro Hub Extension",
+  "description": "Neuro Hub",
   "version": "1.0",
   "icons": {
     "16": "images/icon-16.png",
